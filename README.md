@@ -1,0 +1,1 @@
+These are all the basic python programs I made to understand Syntax and Semantics of Python Programming Language. Including Variables, Data types and Basic Operators like Arithmetic, Comparison and Logical ones. This is just to document my progress about my understanding of Python Progamming Language. 
